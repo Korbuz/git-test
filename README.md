@@ -1,4 +1,3 @@
 # git-test
-my first GitHub repo!
-Hello 
-git commit
+Quiero cambiar mis propositos
+
